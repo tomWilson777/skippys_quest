@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EnemyMovement.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\enemyFollowAI_js.js">
     <Files>
       <File FileName="Assets\EnemyMovement.js" Line="35" Column="10" />
       <File FileName="Assets\SampleAgentScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\enemyFollowAI_js.js" Line="27" Column="99" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

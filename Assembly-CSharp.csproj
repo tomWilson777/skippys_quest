@@ -51,6 +51,7 @@
      <Compile Include="Assets\SampleAgentScript.cs" />
      <Compile Include="Assets\buttScrip.cs" />
      <Compile Include="Assets\collectable_id.cs" />
+     <Compile Include="Assets\enemyFollowAI.cs" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline_Terrain.shader" />

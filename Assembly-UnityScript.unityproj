@@ -49,6 +49,7 @@
      <Compile Include="Assets\BillboardScript.js" />
      <Compile Include="Assets\EnemyAI.js" />
      <Compile Include="Assets\EnemyMovement.js" />
+     <Compile Include="Assets\enemyFollowAI_js.js" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline_Terrain.shader" />
